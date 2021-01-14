@@ -1,3 +1,5 @@
+import 'dart:html';
+
 main(){
   /*int conta = 517;
   String nomedeusuario = "thiago";
@@ -13,9 +15,23 @@ main(){
 
   conta = 517;
   nomedeusuario = "thiago";
-  saldo = 50;*/
+  saldo = 50;
+  
+  
+  -ou usando var 
 
+  var conta = 517;
 
+  -ele ira indetificar qual eh o tipo da variavel e rotulara e depois nao sera possivel mudar o tipo  da variavel
+
+  -ja se  quiser mudar o tipo da variavel ao longo do tempo pode se usar a tag "dynamic"
+
+  dynamic conta = 517;
+
+ -ele ira indetificar qual eh o tipo da variavel  e sera possivel mudar para string ou outro
+  */
+
+  
  // usando print
 
   int conta = 517;
