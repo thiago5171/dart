@@ -29,5 +29,6 @@ main(){
   print("meu nome é: $nomedeusuario");
   print("meu saldo é: $saldo");
   print("minha conta é: $conta ");
-
+// ou pode-se tambem apos os parenteses dentro do print colocar um "+" para concatenar a variavel com um texto
+print("o nome é: " + nomedeusuario);
 }
