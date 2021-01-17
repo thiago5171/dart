@@ -1,4 +1,6 @@
 // SOMAR DOIS VALORES INTEIROS E EXIBIR O RESULTADO
+
+// na linha baixo é o comando para importar a biblioteca que permite o usuario inserir dados 
 import 'dart:io';
 main() {
   //  definindo o tipo da variavel
