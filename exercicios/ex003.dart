@@ -7,6 +7,7 @@ main() {
   double n,raizq,dobro,triplo;
   print("digite um numero");
   n = double.parse(stdin.readLineSync()) ;
+// um numero elevado pr 1/2 dara a raiz desse numero
 raizq = pow(n,1/2);
 dobro =  n * 2;
 triplo = n * 3; 
