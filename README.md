@@ -14,7 +14,7 @@ ENUNCIADO DOS EXERCICIOS
 
 5)Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
 
-6)Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada(usando enquanto)
+6)Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada
 
 7)Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar.
 
