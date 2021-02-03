@@ -1,5 +1,11 @@
 
+/* PARA DEIXAR TUDO EM MAIUSCULO é necessario o comando 
+.toUpperCase()
 
+e para imputar uma strimg ira ficar mais ou menos desse modo
+
+variavel = stdin.readLineSync()
+ */
 main() {
 /*
 condicionais
