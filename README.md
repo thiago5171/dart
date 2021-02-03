@@ -59,39 +59,59 @@ Não existe valor maior, os dois são iguais
 22)Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com a sua idade, se ele ainda vai se alistar ao serviço militar, se é a hora exata de se alistar ou se já passou do tempo do alistamento. Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
 
 
-23)
+23)Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida:
+
+Média abaixo de 5.0: REPROVADO
+Média entre 5.0 e 6.9: RECUPERAÇÃO
+Média 7.0 ou superior: APROVADO
 
 
-24)
+24)A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade:
 
-25)
+Até 9 anos: MIRIM
+Até 14 anos: INFANTIL
+Até 19 anos: JÚNIOR
+Até 25 anos: SÊNIOR
+Acima de 25 anos: MASTER
 
-26)
+25)Refaça o DESAFIO 035 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será formado:
 
-27)
+EQUILÁTERO: todos os lados iguais
+ISÓSCELES: dois lados iguais, um diferente
+ESCALENO: todos os lados diferentes
 
-28)
+26)Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu Índice de Massa Corporal (IMC) e mostre seu status, de acordo com a tabela abaixo:
 
-29)
+IMC abaixo de 18,5: Abaixo do Peso
+Entre 18,5 e 25: Peso Ideal
+25 até 30: Sobrepeso
+30 até 40: Obesidade
+Acima de 40: Obesidade Mórbida
+
+27)Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles.
+
+28)Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 1 e 50.
+
+29)Faça um programa que calcule a soma entre todos os números que são múltiplos de três e que se encontram no intervalo de 1 até 500.
 
 
-30)
+30)faça o DESAFIO 009, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for
 
-31)
+31)Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for ímpar, desconsidere-o.
 
-32)
+32)Desenvolva um programa que leia o primeiro termo e a razão de uma PA. No final, mostre os 10 primeiros termos dessa progressão.
 
-33)
+33)Faça um programa que leia um número inteiro e diga se ele é ou não um número primo.
 
-34)
+34)Crie um programa que leia uma frase qualquer e diga se ela é um palíndromo, desconsiderando os espaços.
 
-35)
+35)Crie um programa que leia o ano de nascimento de sete pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores.{fazer com vetor}
 
-36)
+36)faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi o maior e o menor peso lidos.
 
-37)
+37)Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. No final do programa, mostre: a média de idade do grupo, qual é o nome do homem mais velho e quantas mulheres têm menos de 20 anos.
 
-38)
+38)Faça um programa que leia o sexo de uma pessoa, mas só aceite os valores 'M' ou 'F'. Caso esteja errado, peça a digitação novamente até ter um valor correto.
 
-39)
+39)Crie um programa que leia dois valores e mostre um menu na tela: [ 1 ] somar [ 2 ] multiplicar [ 3 ] maior [ 4 ] novos números [ 5 ] sair do programa Seu programa deverá realizar a operação solicitada em cada caso.
 
